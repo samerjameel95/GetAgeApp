@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Get Age App</string>
+    <string name="textview">Your Age is 0 Years</string>
+    <string name="enter_your_birthday_year">Enter your birthday year</string>
+    <string name="by_samer_jameel">by: Samer Jameel</string>
+    <string name="get_age">Get Age</string>
+
+</resources>
